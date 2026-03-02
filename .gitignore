@@ -1,0 +1,8 @@
+# Playwright MCP artifacts
+.playwright-mcp/
+
+# Screenshots
+*.png
+
+# Node modules (also in subfolder .gitignore)
+node_modules/
